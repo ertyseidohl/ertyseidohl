@@ -16,7 +16,7 @@ My curriculum development contract is expiring soon, and I'm looking to get back
 
 I've got extensive experience with:
 
-* Web (HTML5, CSS, JS), Python, Node.js, TypeScript, SQL, testing, and technical writing.
+* Web (HTML5, CSS, JS), Python, Node.js, TypeScript, SQL, testing, and technical writing
 
 * Data Structures & Algorithms (CS Degree, gave 100 interviews at Google, studied them on my own)
 
@@ -24,10 +24,10 @@ I've got extensive experience with:
 
 I have some experience with:
 
-* Java, Dart, React, Vue.js, Haskell, Electron, SCSS, Bazel, Phaser, Lua, Docker, Image/video processing, as well as project management and engineering management.
+* Java, Dart, React, Vue.js, Haskell, Electron, SCSS, Bazel, Phaser, Lua, Docker, Image/video processing, as well as project management and engineering management
 
-* I'm currently exploring hardware, especially Arduino.
+* I'm currently exploring hardware, especially Arduino
 
 I've used but am very rusty with:
 
-* Elm, PHP, and Angular.
+* Elm, PHP, and Angular
