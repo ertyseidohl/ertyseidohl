@@ -26,6 +26,8 @@ I have some experience with:
 
 * Java, Dart, React, Vue.js, Haskell, Electron, SCSS, Bazel, Phaser, Lua, Docker, Image/video processing, as well as project management and engineering management.
 
-I've used but am very rusty wth:
+* I'm currently exploring hardware, especially Arduino.
+
+I've used but am very rusty with:
 
 * Elm, PHP, and Angular.
