@@ -10,4 +10,4 @@ In addition to software development, I've run my own web development contracting
 
 I helped run [!!Con](https://bangbangcon) - a radically inclusive conference about the joy, excitement, and surprise of computing - from 2014 until the last one in 2024.
 
-This contract is expiring soon, and I'm looking to get back into non-contracting work. Bonus points if it's education or climate related!
+My curriculum development contract is expiring soon, and I'm looking to get back into non-contracting work. Bonus points if it's education or climate related! Reach out via the email on my homepage.
